@@ -20,5 +20,3 @@ Repositório acadêmico para experimentos com Unity. No estado atualmente versio
 - `Assets/`: cena de exemplo, recursos e arquivos de configuração.
 - `Packages/`: dependências do Unity.
 - `ProjectSettings/`: configurações do projeto.
-
-> Este repositório é separado de [Aberratio Mentis](https://github.com/GMRsVoiage/Aberratio-Mentis), que possui documentação e desenvolvimento próprios.
